@@ -1,0 +1,38 @@
+{
+  "private": true,
+  "name": "cf-acesdelta",
+  "version": "0.0.1",
+  "description": "cf-acesdelta npm config",
+  "scripts": {
+    "build": "npm run development",
+    "development": "mix",
+    "watch": "mix watch",
+    "watch-poll": "mix watch -- --watch-options-poll=1000",
+    "hot": "mix watch --hot",
+    "prod": "npm run production",
+    "production": "mix --production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:crowdfavorite/mp-aces-delta.git"
+  },
+  "keywords": [
+    "cf-acesdelta"
+  ],
+  "author": "CrowdFavorite",
+  "license": "GPLv2 or later",
+  "bugs": {
+    "url": "https://github.com/crowdfavorite/mp-aces-delta/issues"
+  },
+  "homepage": "https://github.com/crowdfavorite/mp-aces-delta#readme",
+  "devDependencies": {
+    "laravel-mix": "^6.0.6",
+    "resolve-url-loader": "^5.0.0",
+    "lodash": "^4.17.19",
+    "sass": "^1.53.0",
+    "sass-loader": "^12.6.0"
+  },
+  "dependencies": {
+    "jquery": "^3.6.1"
+  }
+}

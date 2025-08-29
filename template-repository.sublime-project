@@ -1,0 +1,20 @@
+{
+	"folders":
+	[
+		{
+			"path": ".",
+			"folder_exclude_patterns": [
+				"node_modules",
+				"vendor",
+				"wp-content/vendor",
+				"wp-content/uploads"
+			],
+			"file_exclude_patterns":[
+			]
+		}
+	],
+	"settings":
+	{
+		"SublimeLinter.linters.phpcs.args": "--standard='${folder}/phpcs.xml'"
+	}
+}

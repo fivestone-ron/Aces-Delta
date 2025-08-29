@@ -1,0 +1,17 @@
+{
+    "name": "crowdfavorite/acesdelta",
+    "description": "AcesDelta theme",
+    "authors": [
+      {
+        "name": "Crowd Favorite",
+        "email": "support@crowdfavorite.com",
+        "homepage": "https://crowdfavorite.com/"
+      }
+    ],
+    "config": {
+      "vendor-dir": "wp-content/themes/acesdelta/lib/vendor"
+    },
+    "require": {
+      "phpseclib/phpseclib": "^2.0"
+    }
+}
