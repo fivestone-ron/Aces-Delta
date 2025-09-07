@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="12px" viewBox="0 0 22 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 6</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="SECONDARY-NAV" transform="translate(-1149.000000, -673.000000)" stroke="#D8D8D8">
+            <g transform="translate(0.000000, 659.000000)" id="DROP-DOWN-MENU">
+                <g transform="translate(970.000000, 0.000000)">
+                    <g id="Group-6" transform="translate(180.000000, 15.000000)">
+                        <line x1="0.15625" y1="0.15625" x2="9.84375" y2="9.84375" id="Line-2"></line>
+                        <line x1="10" y1="0.15625" x2="19.6875" y2="9.84375" id="Line-2-Copy" transform="translate(14.843750, 5.000000) scale(-1, 1) translate(-14.843750, -5.000000) "></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

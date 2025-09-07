@@ -1,0 +1,25 @@
+{
+  "name": "crowdfavorite/cf-speed-daemon",
+  "type": "wordpress-plugin",
+  "description": "A WordPress plugin that optimizes CSS on a page-by-page basis, using Crowd Favorite's Speed Daemon server.",
+  "keywords": ["wordpress", "plugin", "crowdfavorite", "css", "css-purger", "speed", "daemon", "performance", "frontend", "treeshake", "critical-css"],
+  "support": {
+    "email": "contact@crowdfavorite.com"
+  },
+  "authors": [
+    {
+      "name": "Crowd Favorite",
+      "email": "contact@crowdfavorite.com",
+      "homepage": "https://crowdfavorite.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "CrowdFavorite\\SpeedDaemonCF\\":"app/"
+    }
+  },
+  "require": {
+    "composer/installers": "^1.0",
+    "php": ">=7.0.0"
+  }
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="8px" viewBox="0 0 14 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Hamburger Copy</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="MOBILE---Filter-Nav" transform="translate(-334.000000, -71.000000)" stroke="#000000">
+            <g id="Hamburger-Copy" transform="translate(341.909091, 75.000000) scale(-1, -1) translate(-341.909091, -75.000000) translate(335.909091, 72.000000)">
+                <line x1="0.191919192" y1="3.03030303" x2="7.46464646" y2="3.03030303" id="Line" transform="translate(3.828283, 3.030303) rotate(45.000000) translate(-3.828283, -3.030303) "></line>
+                <line x1="5.44444444" y1="3.03030303" x2="12.7171717" y2="3.03030303" id="Line" transform="translate(9.080808, 3.030303) rotate(-45.000000) translate(-9.080808, -3.030303) "></line>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 115.6 115.5" style="enable-background:new 0 0 115.6 115.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#CA001B;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#CA001B;stroke-linecap:round;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#CA001B;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<g id="Group_89" transform="translate(-3.1 -3.1)">
+	<path id="Rectangle_18" class="st0" d="M39,35.4h43.7c2,0,3.6,1.6,3.6,3.6v43.7c0,2-1.6,3.6-3.6,3.6H39c-2,0-3.6-1.6-3.6-3.6V39
+		C35.4,37,37,35.4,39,35.4z"/>
+	<g id="Group_92" transform="translate(54.511 29.054)">
+		<g id="Group_89-2">
+			<line id="Line_20" class="st1" x1="6.4" y1="6.4" x2="6.4" y2="0"/>
+			<line id="Line_21" class="st1" x1="0" y1="6.4" x2="0" y2="0"/>
+			<line id="Line_22" class="st1" x1="12.7" y1="6.4" x2="12.7" y2="0"/>
+		</g>
+		<g id="Group_90" transform="translate(0 57.282)">
+			<line id="Line_23" class="st1" x1="6.4" y1="6.4" x2="6.4" y2="0"/>
+			<line id="Line_24" class="st1" x1="0" y1="6.4" x2="0" y2="0"/>
+			<line id="Line_25" class="st1" x1="12.7" y1="6.4" x2="12.7" y2="0"/>
+		</g>
+		<g id="Group_91" transform="translate(31.823 25.458)">
+			<line id="Line_26" class="st1" x1="0" y1="6.4" x2="6.4" y2="6.4"/>
+			<line id="Line_27" class="st1" x1="0" y1="0" x2="6.4" y2="0"/>
+			<line id="Line_28" class="st1" x1="0" y1="12.7" x2="6.4" y2="12.7"/>
+		</g>
+	</g>
+	<line id="Line_29" class="st0" x1="16.3" y1="60.9" x2="35.4" y2="60.9"/>
+	<path id="Path_81" class="st0" d="M20.8,39.9l8.2,8.2h6.4"/>
+	<path id="Path_82" class="st0" d="M35.4,73.6h-6.4l-8.2,8.2"/>
+	<path id="Path_83" class="st2" d="M38.6,99.7c3.2,1.8,6.5,3.2,10,4.1l2.4,14.4h19.2l2.4-14.4c3.5-1,6.9-2.4,10-4.1l11.9,8.5
+		l13.6-13.5l-8.5-11.8c1.8-3.1,3.2-6.5,4.1-10l14.4-2.4V51.3l-14.4-2.4c-1-3.5-2.4-6.8-4.1-10l8.5-11.8L94.5,13.6l-11.9,8.5
+		c-3.2-1.8-6.5-3.2-10-4.1L70.2,3.6H51L48.6,18c-3.5,1-6.9,2.4-10,4.1"/>
+	<circle id="Ellipse_30" class="st0" cx="10" cy="60.9" r="6.4"/>
+	<circle id="Ellipse_31" class="st0" cx="16.3" cy="35.4" r="6.4"/>
+	<circle id="Ellipse_32" class="st0" cx="16.3" cy="86.3" r="6.4"/>
+</g>
+</svg>

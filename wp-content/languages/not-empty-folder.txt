@@ -1,0 +1,1 @@
+make sur languages is seen and commit by git - prevents local wpml issues
